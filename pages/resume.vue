@@ -4,7 +4,7 @@
     <head>
         <title>ResUMe</title>
         
-        <link rel="stylesheet" type="text/css" href="assets/fancy.css">
+        <link rel="stylesheet" type="text/css" href="assets/fancy">
     </head>
 
         <h1>
