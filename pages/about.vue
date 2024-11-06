@@ -14,8 +14,7 @@
 
 		<iframe width="420" height="315" src="https://www.youtube.com/watch?v=g7C2it9cCsY"></iframe>
 
-		<img src="tenma.jpg" alt="Dinosaur" />
-
+		
 	</body>
 	<PrimePanel header="About Me" class="my-6">
 		About me stuffs WHat the fu-------- why not working

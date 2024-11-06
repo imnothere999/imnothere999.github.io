@@ -1,6 +1,5 @@
 <template>
-
-	<head>THis is some good head</head>
+	<head>This is some good head</head>
 		
 	<body>
 		<p>At the same time, it's important to consider the broader implications of these developments. As we move forward, we must recognize that change is a constant factor in any evolving system. Whether it's technology, society, or personal growth, adaptation is key.<b> There are countless variables that play a role in shaping the future, and while it can be difficult to predict the exact outcomes, it is clear that progress is inevitable. </b><i>By staying informed and adaptable, we can better navigate the challenges that lie ahead and capitalize on the opportunities that emerge along the way.</i></p>
