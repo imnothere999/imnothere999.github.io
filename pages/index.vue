@@ -11,4 +11,7 @@
 		<br><p><b>Girl math’ has become a popular and playful way of explaining how many women justify spending decisions, particularly in the context of shopping or personal finances. </b> Often described humorously, it involves a creative approach to budgeting that turns certain purchases into logical, almost mathematical calculations. For example, buying something on sale might be considered a win because the discount 'saves' money, even though the item was still a purchase. While lighthearted in nature, ‘girl math’ often highlights the ways people find justifications for indulgences, illustrating how our brains tend to rationalize spending and the complex ways we assign value to experiences and material goods. <i> Though it’s a fun concept, it also sparks larger conversations about how we view money, prioritize spending, and navigate the sometimes tricky balance between enjoyment and responsibility. </i></p>
 	</body>
 
+	<a href="/about.vue"> To About</a>
+	<a href="/resume.vue"> To Resume</a>
+
 </template>

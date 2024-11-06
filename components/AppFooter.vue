@@ -1,5 +1,5 @@
 <template>
 	<footer>
-		<p>footer stuffs</p>
+		<p>I like feet</p>
 	</footer>
 </template>

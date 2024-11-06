@@ -13,10 +13,12 @@
 			<li>4. So Long Mr. Despair</li>
 			<li>5. Bleach</li>
 		</ol>
-		
-		<h3>W asmongold:</h3>
+
+		<a href="https://army-forge.onepagerules.com/"> This site is a W</a>
+
+		<h3>I like this song:</h3>
 		 
-		<iframe width="420" height="315" src="https://www.youtube.com/watch?v=Z82wr3Fgcb8"></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/-DIx8uinOAA?si=s2gl46uQH_BuEGjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 		<h3>here is a picture of the guy from my fav anime:</h3>
 
