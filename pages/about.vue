@@ -3,21 +3,23 @@
 	<head></head>
 
 	<body>
-		<h1>My Favorite Anime</h1>
+		<h2>My Favorite Anime:</h2>
+		
 		<ol>
-			<li>Monster</li>
-			<li>Your Lie in April</li>
-			<li>Code Geass: Lelouch of the Rebellion</li>
-			<li>So Long Mr. Despair</li>
-			<li>Bleach</li>
+			<li>1. Monster</li>
+			<li>2. Your Lie in April</li>
+			<li>3. Code Geass: Lelouch of the Rebellion</li>
+			<li>4. So Long Mr. Despair</li>
+			<li>5. Bleach</li>
 		</ol>
 
-		<iframe width="420" height="315" src="https://www.youtube.com/watch?v=g7C2it9cCsY"></iframe>
+		<p>This song pops off:</p>
+		 
+		<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ZFvx32SjAtE"></iframe>
 
-		
+		<h1>here is a picture of the guy from my fav anime:</h1>
+
+		<img src="assets/tenma.jpg" alt="Kenzo Tenma" />
+
 	</body>
-	<PrimePanel header="About Me" class="my-6">
-		About me stuffs WHat the fu-------- why not working
-		<PrimeButton label="Check" icon="pi pi-check" />
-	</PrimePanel>
 </template>
