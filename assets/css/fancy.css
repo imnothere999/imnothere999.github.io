@@ -1,15 +1,15 @@
-.body {
+body {
     background-color: purple;
   }
 
-.p { 
+p { 
     font-family: cursive; 
 }
 
-.head{
+head{
     font-size: large;
 }
 
-.a{
+a{
     color: blue;
 }
