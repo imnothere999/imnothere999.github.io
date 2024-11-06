@@ -1,7 +1,7 @@
 <template>
 	<head>
 		<title>A great website about me (Kind of)</title>
-		<link rel="stylesheet" type="text/css" href="/assets/css/fancy.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/fancy.css">
 	</head>
 	<h1>Food for thought:</h1>	
 	<body>
