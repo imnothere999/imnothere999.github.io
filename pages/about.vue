@@ -2,7 +2,7 @@
 	<h1>My Favorite Anime:</h1>
 	<head>
 		<title>About Me?</title>
-		<link rel="stylesheet" type="text/css" href="assets/fancy">
+		<link rel="stylesheet" type="text/css" href="pages/fancy.css">
 	</head>
 
 	<body>
